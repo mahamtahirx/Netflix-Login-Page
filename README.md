@@ -10,5 +10,6 @@ To start, add the following HTML codes to your index.html file: This code includ
 Next, add the following CSS codes to your style.css file to achieve a design that looks like the Netflix login page. This code includes different styles for elements such as color, font, background, border, etc., and makes the page responsive for all devices. Feel free to customize these styles according to your preferences.
 
 Conclusion and Final Words:
+
 In conclusion, creating a Netflix-inspired login page can be a valuable project for beginner web developers. It provides a great opportunity to dive into various aspects of web development, such as creating responsive forms, styling elements, and even incorporating floating label input animations.
 By following the steps outlined, I hope you’re able to create a responsive Netflix login page using only HTML and CSS. To understand the code better, you should experiment with it.
